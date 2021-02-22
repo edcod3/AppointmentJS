@@ -1,2 +1,2 @@
 # AppointmentJS
-A calendar application build with ReactJS, NodeJS &amp; MongoDB
+A calendar application built with ReactJS, NodeJS &amp; MongoDB
